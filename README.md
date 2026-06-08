@@ -290,3 +290,4 @@ python3 -m ferro_pipeline.cli <输入> [选项]
            ▼
  输出: ferro_path_data.csv
 ```
+使用前要从https://huggingface.co/Suimai/alignn-ferroelectric-phase-transition/resolve/main/checkpoint_90.pt?download=true下载模型并放到文件夹最上层，并要下载alignn源码与qe（gpu版）源码
