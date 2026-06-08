@@ -1,0 +1,1 @@
+"""Ferroelectric transition accelerated pipeline"""
